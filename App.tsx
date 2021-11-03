@@ -14,9 +14,3 @@ const navigator = createStackNavigator({
 });
 
 export default createAppContainer(navigator);
-
-// Client ID
-// 5R58iH3PC0RGo6enCXBz3w
-
-// API Key
-// JIj0NMxbuGNgc1wejB56VLEBrGW5SCYOgtaygQLEbY-DcaUMaXaxo_DWMRAciIKUyqu5BZSeAJz2FoGTMTGoCFzEo33HTnoLXro1VAYq4pQE4o0WsdgRFN-im9F7YXYx
